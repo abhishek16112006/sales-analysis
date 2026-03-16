@@ -1,0 +1,151 @@
+Order Date,Sales,Category,Region,Profit,Quantity
+7/9/2022,645.06,Technology,East,192.86,9
+6/20/2023,178.88,Office Supplies,South,-6.2,5
+3/14/2022,754.43,Technology,West,134.54,2
+9/24/2022,665.82,Office Supplies,Central,-118.73,9
+11/14/2023,926.51,Technology,East,82.86,3
+4/21/2023,298.17,Furniture,West,78.38,1
+10/6/2022,380.39,Technology,South,1.22,1
+12/11/2023,816.78,Office Supplies,South,34.05,8
+1/28/2022,106.26,Technology,West,16.3,3
+9/27/2023,796.41,Furniture,East,77.23,7
+6/23/2023,259.37,Office Supplies,Central,3.66,6
+5/3/2023,811.91,Office Supplies,South,-142.29,9
+11/29/2022,431.7,Office Supplies,Central,-51.2,9
+1/7/2023,883.6,Office Supplies,East,131.13,5
+4/24/2023,664.35,Technology,East,163.39,9
+9/10/2023,314.89,Technology,East,32.51,8
+11/10/2022,899.04,Technology,East,-36.87,5
+8/13/2023,759.47,Furniture,South,-103.23,7
+1/29/2022,412.98,Office Supplies,East,91.94,1
+5/10/2023,161.76,Furniture,West,47.58,3
+12/14/2023,477.08,Furniture,Central,43.23,9
+6/6/2023,161.43,Furniture,Central,0.74,8
+7/8/2022,225.41,Furniture,South,-10.02,8
+10/3/2023,248.82,Office Supplies,West,-36.82,3
+9/13/2023,785.16,Technology,West,120.67,4
+2/24/2022,367.11,Office Supplies,Central,-63.07,3
+2/20/2023,701.01,Furniture,West,133.35,4
+7/25/2023,696.18,Office Supplies,East,135.37,7
+8/18/2023,138.06,Furniture,East,40.52,5
+10/22/2022,401.02,Technology,West,110.11,1
+10/9/2022,589.84,Technology,South,19.89,1
+12/26/2022,692,Office Supplies,South,21.06,10
+9/23/2023,596.67,Office Supplies,East,8.76,10
+12/6/2023,865.41,Technology,Central,249.96,9
+10/31/2023,667.5,Technology,Central,102.35,4
+6/17/2022,907.42,Office Supplies,South,54.69,6
+1/26/2022,777.69,Technology,West,50.72,3
+9/24/2023,679.64,Technology,West,174.26,1
+1/8/2023,930.68,Office Supplies,South,259.21,7
+9/19/2023,265.82,Technology,West,-42.24,10
+1/8/2023,242.18,Furniture,East,30.48,3
+12/31/2023,168.47,Technology,Central,-9.21,3
+9/14/2023,342.45,Office Supplies,West,-64.11,8
+11/16/2023,993.36,Office Supplies,West,-85.37,3
+11/5/2023,545.81,Technology,East,-106.65,7
+9/15/2022,609.14,Technology,West,-35.11,6
+12/9/2022,990.35,Office Supplies,West,-132.07,8
+10/27/2022,438.21,Technology,East,-41.56,1
+10/18/2022,131.88,Technology,West,-25.13,9
+5/15/2023,204.75,Technology,West,56.04,9
+4/30/2023,501.42,Technology,South,-79.26,9
+5/23/2023,824.66,Furniture,South,10.26,3
+10/14/2023,229.66,Furniture,South,17.38,9
+2/1/2023,473.14,Furniture,East,121.58,3
+9/29/2023,58.52,Technology,South,-7.11,2
+11/23/2023,488.1,Office Supplies,East,-70.92,7
+6/7/2022,386.39,Office Supplies,South,44.73,9
+8/18/2022,424.4,Furniture,Central,57.71,3
+6/5/2023,232.27,Technology,West,-24.16,4
+2/22/2023,943.82,Furniture,West,10.92,8
+5/1/2022,269.43,Technology,East,68.26,1
+12/17/2023,915.46,Furniture,Central,-59.91,8
+9/19/2023,790.72,Furniture,West,203.07,9
+7/30/2022,288.5,Office Supplies,Central,13.12,8
+8/17/2022,775.14,Furniture,East,-78.28,9
+11/26/2022,413.36,Technology,South,-80.18,9
+8/23/2022,265.6,Furniture,East,-42.46,7
+12/15/2022,753.83,Office Supplies,West,-146.22,3
+9/29/2023,308.3,Furniture,South,83.06,3
+6/29/2022,142.26,Furniture,South,-26.65,6
+4/22/2023,982.25,Technology,West,30.92,9
+1/9/2022,263.36,Furniture,East,-24.38,2
+5/2/2022,280.29,Technology,West,8.27,8
+2/17/2022,629.19,Office Supplies,West,-34.77,3
+9/11/2023,487.58,Technology,East,77.65,6
+9/3/2023,780.36,Furniture,West,216.63,6
+9/25/2023,592.74,Furniture,South,60.99,10
+1/25/2023,77.32,Technology,West,5.56,8
+6/7/2022,789.76,Furniture,East,-85.22,7
+11/22/2023,474.36,Office Supplies,Central,99.69,1
+2/23/2022,784.85,Office Supplies,South,-40.37,10
+9/22/2023,147.84,Technology,West,0.74,2
+6/27/2023,831.28,Office Supplies,South,-79.94,6
+4/26/2022,517.27,Office Supplies,West,149.82,7
+10/31/2022,686.04,Technology,Central,-70.9,5
+6/27/2023,260.39,Office Supplies,Central,74.47,9
+8/29/2022,359.93,Furniture,East,-18.87,5
+12/13/2022,537.86,Office Supplies,South,-26.15,8
+7/15/2023,506.62,Office Supplies,East,150.35,7
+7/17/2023,819.78,Office Supplies,Central,-120.53,8
+1/8/2022,829.79,Office Supplies,Central,-71.82,8
+1/21/2023,135.37,Technology,Central,40.4,5
+11/12/2022,305.54,Technology,Central,80.22,4
+11/12/2023,640.58,Office Supplies,Central,187.28,8
+9/4/2023,163.52,Furniture,Central,-24.42,2
+4/26/2023,417.45,Technology,West,97.92,5
+5/26/2022,463.24,Technology,South,-3.32,3
+5/6/2022,370.95,Furniture,West,94.53,5
+3/18/2022,973.2,Technology,Central,190.71,6
+11/17/2022,681.78,Furniture,East,62.23,6
+12/14/2022,878.15,Office Supplies,South,-175.2,5
+6/8/2023,444.33,Technology,West,90.02,3
+9/17/2022,937.07,Office Supplies,East,-167.17,8
+10/16/2023,474.43,Technology,West,-32.24,10
+1/22/2023,51.16,Technology,Central,-1.05,3
+12/18/2023,899.47,Furniture,South,-29.83,9
+9/27/2022,661.08,Office Supplies,East,-1.39,4
+11/24/2022,556.74,Office Supplies,Central,-2.02,8
+8/24/2023,116.49,Furniture,West,28.92,10
+3/26/2023,519.02,Office Supplies,East,87.57,6
+12/15/2022,144.8,Technology,West,26.74,9
+9/2/2023,269.76,Technology,East,77.85,5
+4/17/2023,682.85,Furniture,East,-113.34,4
+8/25/2023,703.8,Technology,South,-75.45,7
+9/8/2022,674.05,Furniture,East,-75.69,10
+2/6/2022,119.52,Office Supplies,Central,34,3
+5/27/2022,285.39,Furniture,West,44.28,6
+3/20/2023,780.2,Office Supplies,East,46.52,2
+11/29/2022,94.35,Office Supplies,East,21.99,10
+2/14/2023,999.53,Technology,South,-185.64,7
+6/19/2022,570.66,Office Supplies,West,-32.94,8
+11/12/2023,881.36,Office Supplies,West,104.07,8
+10/23/2022,621.54,Office Supplies,South,-30.82,6
+6/22/2023,889.97,Furniture,Central,-54.95,4
+5/30/2023,569.62,Technology,West,100.95,5
+11/18/2022,172.11,Technology,South,-25.62,3
+9/30/2022,260.43,Furniture,West,23.44,1
+5/6/2023,315.88,Technology,East,-21.11,10
+4/11/2022,269.55,Office Supplies,Central,9.32,10
+6/5/2023,321.24,Office Supplies,East,-40.39,9
+4/11/2022,837.84,Furniture,East,-68.02,5
+1/15/2022,948.88,Office Supplies,Central,277.12,2
+12/7/2022,422.66,Furniture,West,16.65,9
+6/16/2022,691.75,Technology,West,6.49,1
+6/15/2023,344.07,Technology,South,-33.54,5
+12/8/2022,454.97,Technology,South,-72.09,10
+11/7/2023,888.18,Technology,South,-116.21,6
+12/16/2022,783.71,Technology,South,165.08,4
+6/29/2022,283.57,Furniture,East,-9.71,9
+8/12/2023,748.94,Office Supplies,South,-18.62,3
+4/15/2023,506.71,Office Supplies,West,27.14,4
+2/11/2023,146.77,Office Supplies,East,-13.24,2
+2/21/2022,507.1,Office Supplies,East,132.13,8
+5/6/2023,55.03,Technology,East,-9.78,6
+4/8/2023,806.22,Technology,East,173.19,8
+6/3/2022,118.49,Office Supplies,South,-10.36,3
+2/28/2022,419.01,Furniture,Central,38.45,2
+7/29/2022,647.46,Technology,South,71.8,2
+6/7/2023,888.7,Technology,South,83.8,3
+3/13/2023,192.24,Furniture,Central,38.74,3
