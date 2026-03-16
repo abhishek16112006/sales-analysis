@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 import pickle
 
-df = pd.read_csv("data\\sales.csv")
+df = pd.read_csv("../data/sales.csv")
 
 df["Order Date"] = pd.to_datetime(df["Order Date"])
 df["Month"] = df["Order Date"].dt.month
