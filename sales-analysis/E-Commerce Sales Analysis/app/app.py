@@ -41,11 +41,11 @@ base_path = os.path.dirname(__file__)
 
 
 
-df = pd.read_csv("C:\\Users\\DELL\\OneDrive\\Desktop\\sales-analysis\\E-Commerce Sales Analysis\\data\\sales.csv")
+df = pd.read_csv("../data/sales.csv")
 df["Order Date"] = pd.to_datetime(df["Order Date"])
 df["Month"] = df["Order Date"].dt.month
 
-with open("C:\\Users\\DELL\\OneDrive\\Desktop\\sales-analysis\\E-Commerce Sales Analysis\\model\\sales_model.pkl", "rb") as f:
+with open("../model/sales_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # =========================
